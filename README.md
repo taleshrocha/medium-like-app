@@ -164,7 +164,7 @@ Done with ❤️ by Tales Rocha 👋🏽 Contact me!
 [react-url]: https://reactjs.org/
 [tailwindcss-badge]: https://img.shields.io/badge/tailwind%20css-20232A?style=for-the-badge&logo=tailwindcss
 [tailwindcss-url]: https://tailwindcss.com/
-[sanity-badge]: https://img.shields.io/badge/tailwind%20css-20232A?style=for-the-badge&logo=tailwindcss
+[sanity-badge]: https://img.shields.io/badge/sanity-20232A?style=for-the-badge&logo=sanity
 [sanity-url]: https://www.sanity.io/
 [typescript-badge]: https://img.shields.io/badge/typescript-20232A?style=for-the-badge&logo=typescript
 [typescript-url]: https://www.typescriptlang.org/
