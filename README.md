@@ -113,7 +113,7 @@ It has responsive design to allow a better experience to any user in any screen 
 
 It's possible to add comments to the posts thanks to <a href="https://www.sanity.io/">Sanity CMS</a>.
 
-![](./images/comments.gif)
+![](./images/comment.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
