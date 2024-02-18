@@ -1,54 +1,4 @@
-
-<a name="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
-
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-
-<H3 align="center">Medium Like App</h3>
-
-  <p align="center">
-  A Medium clone.
-    <br />
-    <a href="https://moveit-iota-seven.vercel.app/">View deploy</a>
-    ·
-    <a href="https://github.com/taleshrocha/medium-like-app/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/taleshrocha/medium-like-app/issues">Request Feature</a>
-  </p>
-</div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
+## About
 
 ![Product Name Screen Shot][product-screenshot]
 
@@ -58,9 +8,7 @@ This is a <a href="https://medium.com/">Medium</a> like platform with <a href="h
 
 ### Built With
 
-- [![typescript-badge]][typescript-url]
 - [![tailwindcss-badge]][tailwindcss-url]
-- [![react-badge]][react-url]
 - [![next-badge]][next-url]
 - [![sanity-badge]][sanity-url]
 
@@ -130,14 +78,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgments
 
 This project was possible thanks to [Sonny Sangha](https://www.youtube.com/watch?v=6fNy0iD3hsk&t=1s) on YouTube.
-
-<div align="center">
-<a href="https://github.com/taleshrocha">
- <img style="border-radius: 50%;" src="https://github.com/taleshrocha.png" width="100px;" alt="Tales Rocha's profile photo"/>
- <br />
- <sub><b>Tales Rocha</b></sub></a>
-
-Done with ❤️ by Tales Rocha 👋🏽 Contact me!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
